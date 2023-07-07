@@ -1,0 +1,6 @@
+name: EnderHopper
+version: '1.0'
+main: solarsmp.enderhopper.EnderHopper
+api-version: '1.19'
+description: Allows hoppers to interact with ender chests ( rename the hopper "Multi hopper" and connect it with the enderchest.
+author: coco
